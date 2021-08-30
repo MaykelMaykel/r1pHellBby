@@ -26,3 +26,6 @@
 <br />
 
 ---
+
+[discord]: https://discord.gg/KDaFvJzSZK
+[youtube]: https://youtube.com/channel/UC9gUUcO0pGUTCnZrieBfqaw/
