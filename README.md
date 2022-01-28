@@ -15,7 +15,7 @@
 - CSS3 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png" />
 - JavaScript <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png" />
 - Python3 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-- MongoDB <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mongodb/mongodb.png" />
+- MongoDB <img align="left" alt="MongoDB" width="26px" src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" />
 
 <br />
 
