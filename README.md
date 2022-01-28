@@ -1,6 +1,6 @@
 ## I'm Felipe AKA HęllBby.
 
-- 🌱 Front-End && Back-End Developer.
+- 🌱 Full Stack Developer.
 
 ### Contact:
 
@@ -27,5 +27,5 @@
 
 ---
 
-[discord]: https://discord.gg/KDaFvJzSZK
-[youtube]: https://youtube.com/channel/UC9gUUcO0pGUTCnZrieBfqaw/
+[discord]: https://discord.gg/demonicsquad
+[youtube]: https://www.youtube.com/channel/UC9gUUcO0pGUTCnZrieBfqaw
