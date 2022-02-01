@@ -9,7 +9,7 @@
 
 <br />
 
-### Languages and database:
+### Some of my knowledge:
 
 - HTML5 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" />
 
@@ -21,6 +21,13 @@
 
 - MongoDB <img align="left" alt="MongoDB" width="26px" src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" />
 
+- Git <img align="left" alt="git" width="26px" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" />
+
+- npm <img align="left" alt="npm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" />
+
+- NodeJS <img align="left" alt="NodeJS" width="26px" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png" />
+
+- Bootstrap <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />
 <br />
 
 ### Code Editor
