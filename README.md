@@ -9,7 +9,7 @@
 
 <br />
 
-### Some of my knowledge:
+### Languages
 
 - HTML5 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" />
 
@@ -19,17 +19,22 @@
 
 - Python3 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 
-- MongoDB <img align="left" alt="MongoDB" width="26px" src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" />
+### Other knowledge
 
-- Git <img align="left" alt="git" width="26px" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" />
+- MongoDB <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 
-- npm <img align="left" alt="npm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" />
+- Git <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
-- NodeJS <img align="left" alt="NodeJS" width="26px" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png" />
+- npm <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
+
+- NodeJS <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 
 - DiscordJS <img align="left" alt="DiscordJS" width="26px" src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" />
 
-- Bootstrap <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />
+- Bootstrap <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+- Linux <img align="left" alt="Linux" width="26px" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
+
 <br />
 
 ### Code Editor
