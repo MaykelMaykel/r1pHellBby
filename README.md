@@ -33,7 +33,7 @@
 
 - Bootstrap <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
-- Linux <img align="left" alt="Linux" width="26px" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
+- Linux <img align="left" alt="Linux" width="26px" src="https://pngimg.com/uploads/linux/linux_PNG1.png" />
 
 <br />
 
